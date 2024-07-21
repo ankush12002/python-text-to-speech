@@ -12,7 +12,7 @@ root = Tk()
 root.geometry('350x300')
 root.resizable(0,0)
 root.config(bg = 'ghost white')
-root.title('DataFlair - TEXT_TO_SPEECH')
+root.title('Ankush12 - TEXT_TO_SPEECH')
 
 
 ##heading
